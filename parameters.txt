@@ -1,0 +1,19 @@
+#Parameters
+<Project Name:
+Sua7ChIPnexus_spt6
+>
+<Notification Email:
+umuteser@gmail.com
+>
+<Orchestra User ID:
+ue4
+>
+<Index Directory:
+/groups/winston/ue4/Genomes/
+>
+<Index Match:
+WTA_S1_L001_R1_001.fastq-sacCer3\nWTB_S2_L001_R1_001.fastq-sacCer3\nspt6A_S3_L001_R1_001.fastq-sacCer3\nspt6B_S4_L001_R1_001.fastq-sacCer3
+>
+<Initial Files Directory:
+/groups/winston/ue4/ChIPnexus1/fastq
+>
